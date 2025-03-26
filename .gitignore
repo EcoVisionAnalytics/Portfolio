@@ -1,0 +1,20 @@
+# Python compiled files and caches
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Local settings and secret files
+*.env
+settings.py
+
+# SQLite database file (if using SQLite)
+db.sqlite3
+
+# Django static and media folders (if generated locally)
+static/
+
+# Logs
+*.log
