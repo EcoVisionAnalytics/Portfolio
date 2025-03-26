@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Your Files</title>
+    <script>
+        async function loadFiles() {
+            const response = await fetch('/storage/files/');
+            const data = await response.json();
+            const fileList = document.getElementById("file-list");
+            fileList.innerHTML = '';
+
+            if (data.error) {
+                fileList.innerHTML = `<p style="color: red;">${data.error}</p>`;
+                return;
+            }
+
+            if (data.files.length === 0) {
+                fileList.innerHTML = "<p>No files available.</p>";
+                return;
+            }
+
+            data.files.forEach(file => {
+                let fileItem = document.createElement('p');
+                fileItem.innerHTML = `<a href="${file.url}" target="_blank">${file.name}</a>`;
+                fileList.appendChild(fileItem);
+            });
+        }
+
+        window.onload = loadFiles;
+    </script>
+</head>
+<body>
+    <h2>Welcome, {{ user.username }}</h2>
+    <h3>Your Files:</h3>
+    <div id="file-list">Loading...</div>
+</body>
+</html>
