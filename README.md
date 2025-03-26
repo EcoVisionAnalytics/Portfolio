@@ -41,13 +41,15 @@ This project focuses on analyzing bird population data in the Greater Yellowston
 
 ### Visualizations
 
-![Species Abundance Plot](images/species_abundance_placeholder.png)
-![Species Abundance Plot](images/species_abundance_placeholder.png) 
-![Species Abundance Plot](images/species_abundance_placeholder.png) 
-![Species Abundance Plot](images/species_abundance_placeholder.png) 
-![Species Abundance Plot](images/species_abundance_placeholder.png) 
-![Species Abundance Plot](images/species_abundance_placeholder.png)   
-*Example: Species abundance plot generated using Python modules.*
+![Plot](images/Common Grackle_abundance_plot.png)
+![Plot](images/Dual.png) 
+![Plot](images/Figure 2023-10-10 170213.png) 
+![Plot](images/Figure 2023-10-10 170907.png) 
+![Plot](images/Finalplot.png) 
+![Plot](images/MCR.png)
+![Plot](images/Plot2.png)  
+![Plot](images/Savannah Sparrow_abundance_plot.png)  
+![Plot](images/SS3.PNG)     
 
 ---
 
