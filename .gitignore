@@ -7,11 +7,11 @@ venv/
 env/
 
 # Local settings and secret files
-*.env
+.env
 settings.py
 
 # SQLite database file (if using SQLite)
-db.sqlite3
+Portfolio/web/django_portfolio/db.sqlite3
 
 # Django static and media folders (if generated locally)
 static/
