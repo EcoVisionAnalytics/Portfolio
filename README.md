@@ -41,14 +41,11 @@ This project focuses on analyzing bird population data in the Greater Yellowston
 
 ### Visualizations
 
-![Plot](images/Common Grackle_abundance_plot.png)
+
 ![Plot](images/Dual.png) 
-![Plot](images/Figure 2023-10-10 170213.png) 
-![Plot](images/Figure 2023-10-10 170907.png) 
 ![Plot](images/Finalplot.png) 
 ![Plot](images/MCR.png)
 ![Plot](images/Plot2.png)  
-![Plot](images/Savannah Sparrow_abundance_plot.png)  
 ![Plot](images/SS3.PNG)     
 
 ---
@@ -84,3 +81,14 @@ I also showcase full-stack development skills with:
 - **Cloud Deployment:** Docker and Kubernetes configurations are included in the `deployment/` folder for scalable cloud-based deployments.
 
 ---
+
+## Applications
+![Plot](images/ecohivelogo.png)
+
+EcoHive is a scientific data management platform designed to ensure integrity, reproducibility, and ease-of-use. Built with the scientific professional in mind, EcoHive is transforming how scientists interact with their data. In Q4 2025, a NLQI layer is slated to be added to EcoHive, stay tuned for this exciting development. 
+
+![Plot](images/ecolog.png)
+
+EcoLog is a scientifc field data collection app that syncs seamlessly with EcoHive. EcoLog, built as a progressive web application, is capable both in the field and in the lab. Collecting data in a remote location? As soon as you gain a connection, your data is automatically sync'd to your backend of choice. Custom fields, data validation, and GPS fuctionality make EcoLog an essential tool for the field researcher. Audio files, media files, or form data...EcoLog handles it all. 
+
+*A demo can be arranged. 
