@@ -41,7 +41,9 @@ This project focuses on analyzing bird population data in the Greater Yellowston
 
 ### Visualizations
 ![Plot](images/abundance_plot.png)   
-
+![Plot](images/abundance_stability_v2.png)  
+![Plot](images/conservation_matrix_v2.png)  
+![Plot](images/uncertainty_analysis_v2.png)  
 ---
 
 ## Species Vocalization Identification
