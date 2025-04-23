@@ -40,13 +40,7 @@ This project focuses on analyzing bird population data in the Greater Yellowston
   - **Django/React:** (See folder `web/django_portfolio` and `web/react_portfolio`) for cloud-based interactive visualizations and data access.
 
 ### Visualizations
-
-
-![Plot](images/Dual.png) 
-![Plot](images/Finalplot.png) 
-![Plot](images/MCR.png)
-![Plot](images/Plot2.png)  
-![Plot](images/SS3.PNG)     
+![Plot](images/abundance_plot.png)   
 
 ---
 
